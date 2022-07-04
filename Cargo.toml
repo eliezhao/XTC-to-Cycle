@@ -1,5 +1,5 @@
 [package]
-name = "temp"
+name = "xtc2cycle"
 version = "0.1.0"
 edition = "2021"
 
@@ -11,3 +11,5 @@ candid = "0.7.14"
 tokio = { version = "1", features = ["full"] }
 serde = "1.0.137"
 garcon = "0.2.3"
+hex = "0.4.3"
+clap = "3.2.8"
